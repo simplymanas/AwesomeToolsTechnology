@@ -17,3 +17,6 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 ## [Mindmap with FreeMindmap](https://sourceforge.net/projects/freemind/)
 A premier mind-mapping software written in Java
+
+## [Kanban Flow](https://kanbanflow.com)
+KanbanFlow is a Lean project management tool allowing real-time collaboration between team members. Supports the Pomodoro technique for time tracking.
