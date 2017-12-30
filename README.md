@@ -1,5 +1,6 @@
 # AwesomeToolsTechnology
 This space will create space for all the tools and technolgoy that we are exploring and are interested to go for.
+These are some of my favorite applications, mob apps or tools for productivity.
 
 ## [Google Keep](https://keep.google.com/)
 
